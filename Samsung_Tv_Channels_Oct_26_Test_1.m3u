@@ -237,7 +237,7 @@ https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlis
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",BABY SHARK TV (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US17000208H&channel_id=newid_346&tp=samsung_tvplus
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
@@ -253,6 +253,10 @@ https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="DisneyChannel.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="Kids",Disney Channel HD East (720p)
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+
+#EXTINF:0,Disney International HD (1080p)
+#EXTVLCOPT:network-caching=1000
+http://202.70.146.135:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD (720p)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -296,6 +300,33 @@ https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us@CA" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="Kids",Totally Turtles (720p)
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 
+#EXTINF:0,Tom And Jerry (720p)
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:0,Teletubbies (720p)
+#EXTVLCOPT:network-caching=1000
+https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+
+#EXTINF:0,SpongeBob SquarePants (720p)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
+
+#EXTINF:0,Pluto TV Retro Kid
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+
+#EXTINF:0,Garfield and Friends
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+
+#EXTINF:0,ABC Kids
+#EXTVLCOPT:network-caching=1000
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:0,ABC Entertains (720p)
+#EXTVLCOPT:network-caching=1000
+https://c.mjh.nz/abc-me.m3u8
 
 #Music
 
